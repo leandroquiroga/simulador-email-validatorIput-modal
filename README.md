@@ -1,6 +1,7 @@
 # Simulador de envios de e-mail 📧
 Este proyecto se basa en simular un envio de un e-mail, validando cada input. Para validar el campo email escoji la idea de usar expresiones regulares. Todo se crea dinamicamente al presionar en el boton de la pantalla principal. 
 
+![formvalidator](https://user-images.githubusercontent.com/80013958/128584783-23a312ef-2548-4044-8aaa-226c1406eb5e.gif)
 
 # Construido con 🛠️
 Este miniproyecto se realizo con las siguientes herramientas:
