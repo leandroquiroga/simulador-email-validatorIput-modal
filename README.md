@@ -32,7 +32,7 @@ Este miniproyecto se realizo con las siguientes herramientas:
 - Mensaje de error al escribir en el textarea, si bien esta permitido un caracter maximo de 150 palabras no se coloca un mensaje para el usuario. 
 
 # Despliegue 📦
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ab0aaee-2b73-4627-80a5-490645aeaf08/deploy-status)](https://dreamy-banach-fee2df.netlify.app/src/)
 # Autor ✒️
 
 - [Linkedin](https://www.linkedin.com/in/leanquiroga95/)
